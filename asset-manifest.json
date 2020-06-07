@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/dialogues/static/css/main.41aff5a5.chunk.css",
+    "main.js": "/dialogues/static/js/main.7b379934.chunk.js",
+    "main.js.map": "/dialogues/static/js/main.7b379934.chunk.js.map",
+    "runtime-main.js": "/dialogues/static/js/runtime-main.0f0b3e04.js",
+    "runtime-main.js.map": "/dialogues/static/js/runtime-main.0f0b3e04.js.map",
+    "static/js/2.1fb4b1ba.chunk.js": "/dialogues/static/js/2.1fb4b1ba.chunk.js",
+    "static/js/2.1fb4b1ba.chunk.js.map": "/dialogues/static/js/2.1fb4b1ba.chunk.js.map",
+    "index.html": "/dialogues/index.html",
+    "precache-manifest.cf41fc84aea15f7c2b803775adc73b8b.js": "/dialogues/precache-manifest.cf41fc84aea15f7c2b803775adc73b8b.js",
+    "service-worker.js": "/dialogues/service-worker.js",
+    "static/css/main.41aff5a5.chunk.css.map": "/dialogues/static/css/main.41aff5a5.chunk.css.map",
+    "static/js/2.1fb4b1ba.chunk.js.LICENSE.txt": "/dialogues/static/js/2.1fb4b1ba.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/dialogues/static/media/bg.c37cc212.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0f0b3e04.js",
+    "static/js/2.1fb4b1ba.chunk.js",
+    "static/css/main.41aff5a5.chunk.css",
+    "static/js/main.7b379934.chunk.js"
+  ]
+}
