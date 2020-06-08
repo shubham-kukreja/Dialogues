@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Dialogues/static/css/main.215a943e.chunk.css",
-    "main.js": "/Dialogues/static/js/main.3734e6d4.chunk.js",
-    "main.js.map": "/Dialogues/static/js/main.3734e6d4.chunk.js.map",
+    "main.js": "/Dialogues/static/js/main.577bef60.chunk.js",
+    "main.js.map": "/Dialogues/static/js/main.577bef60.chunk.js.map",
     "runtime-main.js": "/Dialogues/static/js/runtime-main.f7c3774e.js",
     "runtime-main.js.map": "/Dialogues/static/js/runtime-main.f7c3774e.js.map",
     "static/js/2.c7113c56.chunk.js": "/Dialogues/static/js/2.c7113c56.chunk.js",
     "static/js/2.c7113c56.chunk.js.map": "/Dialogues/static/js/2.c7113c56.chunk.js.map",
     "index.html": "/Dialogues/index.html",
-    "precache-manifest.acda990295dd23bb2e0c647d1898f600.js": "/Dialogues/precache-manifest.acda990295dd23bb2e0c647d1898f600.js",
+    "precache-manifest.2ce416301c0c04266a73e798d3b67b65.js": "/Dialogues/precache-manifest.2ce416301c0c04266a73e798d3b67b65.js",
     "service-worker.js": "/Dialogues/service-worker.js",
     "static/css/main.215a943e.chunk.css.map": "/Dialogues/static/css/main.215a943e.chunk.css.map",
     "static/js/2.c7113c56.chunk.js.LICENSE.txt": "/Dialogues/static/js/2.c7113c56.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.f7c3774e.js",
     "static/js/2.c7113c56.chunk.js",
     "static/css/main.215a943e.chunk.css",
-    "static/js/main.3734e6d4.chunk.js"
+    "static/js/main.577bef60.chunk.js"
   ]
 }
