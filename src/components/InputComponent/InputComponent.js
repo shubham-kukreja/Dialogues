@@ -16,6 +16,8 @@ class InputComponent extends Component {
     modalOpen: false,
   };
 
+  textInput = React.createRef();
+
   handleChange = (e) => {
     this.setState({
       value: e.target.value,
@@ -35,6 +37,7 @@ class InputComponent extends Component {
     this.setState({
       value: "",
     });
+    this.textInput.current.focus();
   };
 
   handleListen = () => {
@@ -69,6 +72,8 @@ class InputComponent extends Component {
           value={this.state.value}
           onChange={this.handleChange}
           multiline
+          autoFocus
+          inputRef={this.textInput}
           style={{ theme: { primary: "red" } }}
           className="input"
           InputProps={{
