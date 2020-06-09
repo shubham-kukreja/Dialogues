@@ -81,9 +81,9 @@ class InputComponent extends Component {
               <InputAdornment position="end">
                 <IconButton onClick={this.handleListen}>
                   {!this.state.listening ? (
-                    <MicIcon color="primary" />
+                    <MicIcon />
                   ) : (
-                    <MicOffIcon color="primary" />
+                    <MicIcon color="primary" />
                   )}
                 </IconButton>
               </InputAdornment>
