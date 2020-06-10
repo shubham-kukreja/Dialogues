@@ -1,6 +1,6 @@
 import React from "react";
 import "./App.css";
-import MainScreen from "./components/InputComponent/MainScreen";
+import MainScreen from "./components/MainScreen";
 import { Container } from "@material-ui/core";
 import * as firebase from "firebase";
 

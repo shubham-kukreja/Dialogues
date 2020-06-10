@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import { TextField, Button, IconButton } from "@material-ui/core";
-import { HUMAN, BOT } from "../../constants";
-import "../../App.css";
+import { HUMAN, BOT } from "../constants";
+import "../App.css";
 import SpeechRecognition from "react-speech-recognition";
 import MicIcon from "@material-ui/icons/Mic";
 import MicOffIcon from "@material-ui/icons/MicOff";

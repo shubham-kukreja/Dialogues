@@ -1,6 +1,6 @@
 import React, { useRef, useEffect } from "react";
-import { HUMAN } from "../../constants";
-import "../../App.css";
+import { HUMAN } from "../constants";
+import "../App.css";
 import { IconButton } from "@material-ui/core";
 import CancelIcon from "@material-ui/icons/Cancel";
 

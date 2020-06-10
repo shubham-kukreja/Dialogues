@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import InputComponent from "./InputComponent";
 import ConversationBox from "./ConversationBox";
 import Typography from "@material-ui/core/Typography";
-import { HUMAN, BOT } from "../../constants";
+import { HUMAN, BOT } from "../constants";
 import Firebase from "firebase";
 
 function MainScreen() {
